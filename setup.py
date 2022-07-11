@@ -6,5 +6,5 @@ setup(name='piston_distance_calculator',
       author='Maor Boublil',
       author_email='maorboublil@gmail.com',
       url='https://github.com/boublilm/piston_distance_calculator',
-      packages=[],
+      py_modules=['piston_distance_calculator'],
      )
